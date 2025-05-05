@@ -24,5 +24,6 @@ testing.ipynb
 check_files_encoding.py
 tests/*.csv
 notebooks/examples/debug_local_sqft_univ.csv
+cache/
 
 tests/cache/

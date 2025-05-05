@@ -5,7 +5,6 @@ from dataclasses import dataclass
 from datetime import datetime
 from typing import Literal
 
-import pygeos
 import shapely
 
 from shapely.geometry import Point
